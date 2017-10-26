@@ -1,0 +1,260 @@
+22817
+Tree size before pruning is 22817
+Test accuracy before Pruning is 0.826293
+Node to be removed has 23nodes under it. At accuracy 0.8264
+Node removed
+0.833487
+Node to be removed has 32nodes under it. At accuracy 0.826508
+Node removed
+0.83361
+Node to be removed has 15nodes under it. At accuracy 0.826615
+Node removed
+0.833733
+Node to be removed has 26nodes under it. At accuracy 0.826723
+Node removed
+0.833733
+Node to be removed has 19nodes under it. At accuracy 0.82683
+Node removed
+0.833487
+Node to be removed has 9nodes under it. At accuracy 0.827045
+Node removed
+0.833425
+Node to be removed has 7nodes under it. At accuracy 0.827153
+Node removed
+0.833487
+Node to be removed has 232nodes under it. At accuracy 0.827368
+Node removed
+0.833671
+Node to be removed has 18nodes under it. At accuracy 0.827475
+Node removed
+0.833671
+Node to be removed has 48nodes under it. At accuracy 0.827583
+Node removed
+0.833733
+Node to be removed has 59nodes under it. At accuracy 0.82769
+Node removed
+0.833671
+Node to be removed has 35nodes under it. At accuracy 0.827797
+Node removed
+0.833671
+Node to be removed has 254nodes under it. At accuracy 0.827905
+Node removed
+0.833671
+Node to be removed has 38nodes under it. At accuracy 0.828012
+Node removed
+0.833487
+Node to be removed has 40nodes under it. At accuracy 0.828227
+Node removed
+0.833487
+Node to be removed has 7nodes under it. At accuracy 0.828335
+Node removed
+0.833487
+Node to be removed has 14nodes under it. At accuracy 0.82855
+Node removed
+0.833671
+Node to be removed has 12nodes under it. At accuracy 0.828657
+Node removed
+0.833671
+Node to be removed has 12nodes under it. At accuracy 0.828765
+Node removed
+0.833855
+Node to be removed has 32nodes under it. At accuracy 0.829087
+Node removed
+0.834163
+Node to be removed has 74nodes under it. At accuracy 0.829732
+Node removed
+0.833917
+Node to be removed has 108nodes under it. At accuracy 0.829947
+Node removed
+0.834163
+Node to be removed has 39nodes under it. At accuracy 0.830162
+Node removed
+0.834408
+Node to be removed has 81nodes under it. At accuracy 0.830377
+Node removed
+0.834408
+Node to be removed has 107nodes under it. At accuracy 0.830807
+Node removed
+0.835514
+Node to be removed has 26nodes under it. At accuracy 0.83113
+Node removed
+0.835514
+Node to be removed has 6nodes under it. At accuracy 0.831237
+Node removed
+0.835514
+Node to be removed has 8nodes under it. At accuracy 0.831345
+Node removed
+0.835637
+Node to be removed has 28nodes under it. At accuracy 0.831452
+Node removed
+0.835452
+Node to be removed has 50nodes under it. At accuracy 0.83156
+Node removed
+0.835575
+Node to be removed has 37nodes under it. At accuracy 0.831667
+Node removed
+0.835452
+Node to be removed has 6nodes under it. At accuracy 0.831882
+Node removed
+0.835452
+Node to be removed has 82nodes under it. At accuracy 0.832097
+Node removed
+0.835452
+Node to be removed has 7nodes under it. At accuracy 0.83242
+Node removed
+0.835452
+Node to be removed has 332nodes under it. At accuracy 0.83285
+Node removed
+0.835452
+Node to be removed has 68nodes under it. At accuracy 0.832957
+Node removed
+0.835452
+Node to be removed has 7nodes under it. At accuracy 0.833065
+Node removed
+0.835514
+Node to be removed has 27nodes under it. At accuracy 0.83328
+Node removed
+0.835452
+Node to be removed has 194nodes under it. At accuracy 0.833387
+Node removed
+0.835575
+Node to be removed has 13nodes under it. At accuracy 0.833602
+Node removed
+0.835759
+Node to be removed has 14nodes under it. At accuracy 0.83371
+Node removed
+0.836067
+Node to be removed has 15nodes under it. At accuracy 0.833925
+Node removed
+0.836067
+Node to be removed has 26nodes under it. At accuracy 0.834032
+Node removed
+0.836128
+Node to be removed has 9nodes under it. At accuracy 0.83414
+Node removed
+0.836067
+Node to be removed has 6nodes under it. At accuracy 0.834247
+Node removed
+0.836189
+Node to be removed has 25nodes under it. At accuracy 0.834355
+Node removed
+0.836189
+Node to be removed has 15nodes under it. At accuracy 0.834462
+Node removed
+0.836128
+Node to be removed has 384nodes under it. At accuracy 0.834569
+Node removed
+0.836128
+Node to be removed has 70nodes under it. At accuracy 0.834784
+Node removed
+0.836189
+Node to be removed has 162nodes under it. At accuracy 0.834892
+Node removed
+0.836312
+Node to be removed has 206nodes under it. At accuracy 0.836289
+Node removed
+0.836865
+Node to be removed has 51nodes under it. At accuracy 0.836612
+Node removed
+0.836558
+Node to be removed has 10nodes under it. At accuracy 0.836719
+Node removed
+0.836558
+Node to be removed has 7nodes under it. At accuracy 0.837042
+Node removed
+0.836865
+Node to be removed has 9nodes under it. At accuracy 0.837257
+Node removed
+0.836865
+Node to be removed has 9nodes under it. At accuracy 0.837364
+Node removed
+0.836865
+Node to be removed has 5nodes under it. At accuracy 0.837472
+Node removed
+0.836865
+Node to be removed has 7nodes under it. At accuracy 0.837579
+Node removed
+0.836988
+Node to be removed has 1017nodes under it. At accuracy 0.837687
+Node removed
+0.837418
+Node to be removed has 1215nodes under it. At accuracy 0.837902
+Node removed
+0.836497
+Node to be removed has 12nodes under it. At accuracy 0.838009
+Node removed
+0.836435
+Node to be removed has 63nodes under it. At accuracy 0.838117
+Node removed
+0.836435
+Node to be removed has 7nodes under it. At accuracy 0.838224
+Node removed
+0.836435
+Node to be removed has 6nodes under it. At accuracy 0.838332
+Node removed
+0.836497
+Node to be removed has 44nodes under it. At accuracy 0.838762
+Node removed
+0.836497
+Node to be removed has 8nodes under it. At accuracy 0.838869
+Node removed
+0.836681
+Node to be removed has 44nodes under it. At accuracy 0.839192
+Node removed
+0.836742
+Node to be removed has 12nodes under it. At accuracy 0.839299
+Node removed
+0.836742
+Node to be removed has 21nodes under it. At accuracy 0.839407
+Node removed
+0.836251
+Node to be removed has 24nodes under it. At accuracy 0.839622
+Node removed
+0.836374
+Node to be removed has 6nodes under it. At accuracy 0.839944
+Node removed
+0.836374
+Node to be removed has 239nodes under it. At accuracy 0.840052
+Node removed
+0.836251
+Node to be removed has 5nodes under it. At accuracy 0.840159
+Node removed
+0.836251
+Node to be removed has 22nodes under it. At accuracy 0.840374
+Node removed
+0.836374
+Node to be removed has 15nodes under it. At accuracy 0.840482
+Node removed
+0.836374
+Node to be removed has 13nodes under it. At accuracy 0.840804
+Node removed
+0.836497
+Node to be removed has 52nodes under it. At accuracy 0.841019
+Node removed
+0.836619
+Node to be removed has 8nodes under it. At accuracy 0.841127
+Node removed
+0.836681
+Node to be removed has 7nodes under it. At accuracy 0.841449
+Node removed
+0.836681
+Node to be removed has 28nodes under it. At accuracy 0.841556
+Node removed
+0.836681
+Node to be removed has 39nodes under it. At accuracy 0.841986
+Node removed
+0.836804
+Node to be removed has 5nodes under it. At accuracy 0.842094
+Node removed
+0.836865
+Node to be removed has 23nodes under it. At accuracy 0.842309
+Node removed
+0.836804
+Node to be removed has 6nodes under it. At accuracy 0.842416
+Node removed
+0.836804
+Max acc is 0.842416
+
+Test accuracy after Pruning method 2 is 
+0.836804
+Tree size after pruning is 17378

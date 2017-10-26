@@ -1,0 +1,6 @@
+27 at index 0
+209912 at index 2
+12 at index 4
+7073 at index 10
+1820 at index 11
+42 at index 12
